@@ -1,0 +1,23 @@
+body {background-color:#eee;}
+.container-fluid {padding:50px;}
+.container{background-color:white;padding:50px;   }
+#title{font-family: 'Lobster', cursive;;}
+
+#CapCycling {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 80px;
+}
+
+#RichmondVA {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28px;
+}
+
+#body {
+    background-color: lightskyblue;
+}
+
+#Logo {
+    text-align: center;
+}
+
